@@ -1,0 +1,16 @@
+This Project is a simple alarm clock project using atmega32.
+
+components:
+1 atmega32
+1 lcd 16*2
+5 330 resistances
+1 led
+4 push buttons
+
+The components should be connected according to the schematic 
+attached to the project.
+
+The lcd is used to display the status of the alarm whether it is on 
+or off and the current time "Set by user and then it starts counting"
+untill the alarm matches the clock then the led turns on indicating
+the alarm going off.
